@@ -1,0 +1,41 @@
+mx/edu/utng/tvhello/MovieList.java
+ mx.edu.utng.tvhello.MovieList
+mx/edu/utng/tvhello/PlaybackActivity.java
+ mx.edu.utng.tvhello.PlaybackActivity
+mx/edu/utng/tvhello/Movie.java
+ mx.edu.utng.tvhello.Movie
+mx/edu/utng/tvhello/DetailsDescriptionPresenter.java
+ mx.edu.utng.tvhello.DetailsDescriptionPresenter
+mx/edu/utng/tvhello/BuildConfig.java
+ mx.edu.utng.tvhello.BuildConfig
+mx/edu/utng/tvhello/PlaybackVideoFragment.java
+ mx.edu.utng.tvhello.PlaybackVideoFragment
+mx/edu/utng/tvhello/VideoDetailsFragment.java
+ mx.edu.utng.tvhello.VideoDetailsFragment
+ mx.edu.utng.tvhello.VideoDetailsFragment$1
+ mx.edu.utng.tvhello.VideoDetailsFragment$2
+ mx.edu.utng.tvhello.VideoDetailsFragment$3
+ mx.edu.utng.tvhello.VideoDetailsFragment$ItemViewClickedListener
+mx/edu/utng/tvhello/BrowseErrorActivity.java
+ mx.edu.utng.tvhello.BrowseErrorActivity
+ mx.edu.utng.tvhello.BrowseErrorActivity$1
+ mx.edu.utng.tvhello.BrowseErrorActivity$SpinnerFragment
+mx/edu/utng/tvhello/ErrorFragment.java
+ mx.edu.utng.tvhello.ErrorFragment
+ mx.edu.utng.tvhello.ErrorFragment$1
+mx/edu/utng/tvhello/MainFragment.java
+ mx.edu.utng.tvhello.MainFragment
+ mx.edu.utng.tvhello.MainFragment$1
+ mx.edu.utng.tvhello.MainFragment$2
+ mx.edu.utng.tvhello.MainFragment$GridItemPresenter
+ mx.edu.utng.tvhello.MainFragment$ItemViewClickedListener
+ mx.edu.utng.tvhello.MainFragment$ItemViewSelectedListener
+ mx.edu.utng.tvhello.MainFragment$UpdateBackgroundTask
+ mx.edu.utng.tvhello.MainFragment$UpdateBackgroundTask$1
+mx/edu/utng/tvhello/MainActivity.java
+ mx.edu.utng.tvhello.MainActivity
+mx/edu/utng/tvhello/CardPresenter.java
+ mx.edu.utng.tvhello.CardPresenter
+ mx.edu.utng.tvhello.CardPresenter$1
+mx/edu/utng/tvhello/DetailsActivity.java
+ mx.edu.utng.tvhello.DetailsActivity
